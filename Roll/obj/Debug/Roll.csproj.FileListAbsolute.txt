@@ -1,0 +1,10 @@
+D:\Files\Coding\C#\Roll\Roll\bin\Debug\Roll.exe.config
+D:\Files\Coding\C#\Roll\Roll\bin\Debug\Roll.exe
+D:\Files\Coding\C#\Roll\Roll\bin\Debug\Roll.pdb
+D:\Files\Coding\C#\Roll\Roll\obj\Debug\Roll.csprojAssemblyReference.cache
+D:\Files\Coding\C#\Roll\Roll\obj\Debug\Roll.MainForm.resources
+D:\Files\Coding\C#\Roll\Roll\obj\Debug\Roll.Properties.Resources.resources
+D:\Files\Coding\C#\Roll\Roll\obj\Debug\Roll.csproj.GenerateResource.cache
+D:\Files\Coding\C#\Roll\Roll\obj\Debug\Roll.csproj.CoreCompileInputs.cache
+D:\Files\Coding\C#\Roll\Roll\obj\Debug\Roll.exe
+D:\Files\Coding\C#\Roll\Roll\obj\Debug\Roll.pdb
